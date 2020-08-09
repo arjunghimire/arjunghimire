@@ -42,6 +42,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Extending interfaces In TypeScript](https://code4ever.com/post/extending-interfaces-in-typescript)
+- [Type inference In TypeScript](https://code4ever.com/post/type-inference-in-typescript)
+- [New array method in JavaScript](https://code4ever.com/post/new-array-method-in-javascript)
+- [True block scope in JavaScipt](https://code4ever.com/post/true-block-scope-in-javascipt)
+- [An introduction to let and const](https://code4ever.com/post/an-introduction-to-let-and-const)
 <!-- BLOG-POST-LIST:END -->
 
 ---
