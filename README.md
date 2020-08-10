@@ -42,11 +42,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Managing Software with apt in Linux](https://code4ever.com/post/managing-software-with-apt-in-linux)
 - [Managing Software with dpkg in Linux](https://code4ever.com/post/managing-software-with-dpkg-in-linux)
 - [Extending interfaces In TypeScript](https://code4ever.com/post/extending-interfaces-in-typescript)
 - [Type inference In TypeScript](https://code4ever.com/post/type-inference-in-typescript)
 - [New array method in JavaScript](https://code4ever.com/post/new-array-method-in-javascript)
-- [True block scope in JavaScipt](https://code4ever.com/post/true-block-scope-in-javascipt)
 <!-- BLOG-POST-LIST:END -->
 
 ---
