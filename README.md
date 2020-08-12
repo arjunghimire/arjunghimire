@@ -42,11 +42,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [75+ Linux command line for beginner](https://code4ever.com/post/75-linux-command-line-for-beginner)
+- [Bash history shortcuts you will actually use](https://code4ever.com/post/bash-history-shortcuts-you-will-actually-use)
 - [Managing Software with apt in Linux](https://code4ever.com/post/managing-software-with-apt-in-linux)
 - [Managing Software with dpkg in Linux](https://code4ever.com/post/managing-software-with-dpkg-in-linux)
 - [Extending interfaces In TypeScript](https://code4ever.com/post/extending-interfaces-in-typescript)
-- [Type inference In TypeScript](https://code4ever.com/post/type-inference-in-typescript)
-- [New array method in JavaScript](https://code4ever.com/post/new-array-method-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
