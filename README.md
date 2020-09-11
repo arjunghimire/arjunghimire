@@ -43,10 +43,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Comments in Rust](https://code4ever.com/post/comments-in-rust-)
-- [75+ Linux command line for beginner](https://code4ever.com/post/75-linux-command-line-for-beginner)
 - [Bash history shortcuts you will actually use](https://code4ever.com/post/bash-history-shortcuts-you-will-actually-use)
 - [Managing Software with apt in Linux](https://code4ever.com/post/managing-software-with-apt-in-linux)
 - [Managing Software with dpkg in Linux](https://code4ever.com/post/managing-software-with-dpkg-in-linux)
+- [Extending interfaces In TypeScript](https://code4ever.com/post/extending-interfaces-in-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
