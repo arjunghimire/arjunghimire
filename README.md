@@ -3,7 +3,7 @@
 ## I'm a Fullstack Developer!
 
 - 🔭 I’m currently working on a [Code 4 Ever][website]!
-- 🌱 I’m currently learning Ethical Hacking 🤣
+- 🌱 I’m currently learning Ethical Hacking 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen music and travel in different palces
 
