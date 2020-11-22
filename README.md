@@ -42,11 +42,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Comments in Rust](https://code4ever.com/post/comments-in-rust-)
-- [Bash history shortcuts you will actually use](https://code4ever.com/post/bash-history-shortcuts-you-will-actually-use)
-- [Managing Software with apt in Linux](https://code4ever.com/post/managing-software-with-apt-in-linux)
-- [Managing Software with dpkg in Linux](https://code4ever.com/post/managing-software-with-dpkg-in-linux)
-- [Extending interfaces In TypeScript](https://code4ever.com/post/extending-interfaces-in-typescript)
+- [Introduction to Git](https://code4ever.com/introduction-to-git/)
+- [Enable ES6 imports in Express Js](https://code4ever.com/enable-es6-imports-in-express-js/)
+- [RVM  install on Linux Machine](https://code4ever.com/rvm-install-on-linux-machine/)
+- [Configure Password Less ssh login on Linux VPS](https://code4ever.com/configure-password-less-ssh-login-on-linux-vps/)
+- [useEffect Hook React Js](https://code4ever.com/useeffect-hook-react-js/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
