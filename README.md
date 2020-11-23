@@ -42,11 +42,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Beginners](https://code4ever.com/python-beginners/)
 - [Introduction to Git](https://code4ever.com/introduction-to-git/)
 - [Enable ES6 imports in Express Js](https://code4ever.com/enable-es6-imports-in-express-js/)
 - [RVM  install on Linux Machine](https://code4ever.com/rvm-install-on-linux-machine/)
 - [Configure Password Less ssh login on Linux VPS](https://code4ever.com/configure-password-less-ssh-login-on-linux-vps/)
-- [useEffect Hook React Js](https://code4ever.com/useeffect-hook-react-js/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
