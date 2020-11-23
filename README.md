@@ -42,11 +42,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Beginners](https://code4ever.com/python-beginners/)
-- [Introduction to Git](https://code4ever.com/introduction-to-git/)
-- [Enable ES6 imports in Express Js](https://code4ever.com/enable-es6-imports-in-express-js/)
-- [RVM  install on Linux Machine](https://code4ever.com/rvm-install-on-linux-machine/)
-- [Configure Password Less ssh login on Linux VPS](https://code4ever.com/configure-password-less-ssh-login-on-linux-vps/)
+- [Python Beginners Cheat Sheet](https://code4ever.com/python-beginners-cheat-sheet/)
+- [Git Cheat Sheet](https://code4ever.com/git-cheat-sheet/)
+- [Enable ES6 imports in Express Js Cheat Sheet](https://code4ever.com/enable-es6-imports-in-express-js-cheat-sheet/)
+- [RVM  install on Linux Machine Cheat Sheet](https://code4ever.com/rvm-install-on-linux-machine-cheat-sheet/)
+- [Configure Password Less ssh login on Linux VPS Cheat Sheet](https://code4ever.com/configure-password-less-ssh-login-on-linux-vps-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
