@@ -42,11 +42,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nginx Cheat Sheet](https://code4ever.com/nginx-cheat-sheet/)
 - [SQLmap Cheat Sheet](https://code4ever.com/sqlmap-cheat-sheet/)
 - [Docker Cheat Sheet](https://code4ever.com/docker-cheat-sheet/)
 - [Python Beginners Cheat Sheet](https://code4ever.com/python-beginners-cheat-sheet/)
 - [Git Cheat Sheet](https://code4ever.com/git-cheat-sheet/)
-- [Enable ES6 imports in Express Js Cheat Sheet](https://code4ever.com/enable-es6-imports-in-express-js-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
