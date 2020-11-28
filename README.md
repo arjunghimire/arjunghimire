@@ -42,11 +42,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Hook Cheat Sheet](https://code4ever.com/react-hook-cheat-sheet/)
 - [Apache Cheat Sheet](https://code4ever.com/apache-cheat-sheet/)
 - [Nginx Cheat Sheet](https://code4ever.com/nginx-cheat-sheet/)
 - [SQLmap Cheat Sheet](https://code4ever.com/sqlmap-cheat-sheet/)
 - [Docker Cheat Sheet](https://code4ever.com/docker-cheat-sheet/)
-- [Python Beginners Cheat Sheet](https://code4ever.com/python-beginners-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
