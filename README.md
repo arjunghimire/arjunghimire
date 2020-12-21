@@ -42,11 +42,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Log Cheat Sheet](https://code4ever.com/git-log-cheat-sheet/)
 - [Vue js Lifecycle hooks Cheat Sheet](https://code4ever.com/vue-js-lifecycle-hooks-cheat-sheet/)
 - [Web App Manifest Cheat Sheet](https://code4ever.com/web-app-manifest-cheat-sheet/)
 - [Django Cheat Sheet](https://code4ever.com/django-cheat-sheet/)
 - [React Hook Cheat Sheet](https://code4ever.com/react-hook-cheat-sheet/)
-- [Apache Cheat Sheet](https://code4ever.com/apache-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
