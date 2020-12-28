@@ -42,11 +42,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux Command Cheat Sheet](https://code4ever.com/linux-command-cheat-sheet/)
+- [HTML 5 Cheat Sheet](https://code4ever.com/html-5-cheat-sheet/)
 - [Gitignore Cheat Sheet](https://code4ever.com/gitignore-cheat-sheet/)
 - [Git Log Cheat Sheet](https://code4ever.com/git-log-cheat-sheet/)
 - [Vue js Lifecycle hooks Cheat Sheet](https://code4ever.com/vue-js-lifecycle-hooks-cheat-sheet/)
-- [Web App Manifest Cheat Sheet](https://code4ever.com/web-app-manifest-cheat-sheet/)
-- [Django Cheat Sheet](https://code4ever.com/django-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
