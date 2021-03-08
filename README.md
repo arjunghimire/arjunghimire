@@ -42,11 +42,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Command Cheat Sheet](https://code4ever.com/linux-command-cheat-sheet/)
-- [HTML 5 Cheat Sheet](https://code4ever.com/html-5-cheat-sheet/)
-- [Gitignore Cheat Sheet](https://code4ever.com/gitignore-cheat-sheet/)
-- [Git Log Cheat Sheet](https://code4ever.com/git-log-cheat-sheet/)
-- [Vue js Lifecycle hooks Cheat Sheet](https://code4ever.com/vue-js-lifecycle-hooks-cheat-sheet/)
+- [What are and how to use Observables in RxJS](https://code4ever.com/gatsby-starter-developer-blog/blog/top-7-rxjs-patterns)
 <!-- BLOG-POST-LIST:END -->
 
 ---
