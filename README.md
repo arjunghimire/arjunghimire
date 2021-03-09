@@ -42,7 +42,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What are and how to use Observables in RxJS](https://code4ever.com/gatsby-starter-developer-blog/blog/top-7-rxjs-patterns)
+- [How To Create an Alert Message Box using HTML CSS](https://code4ever.com/gatsby-starter-developer-blog/blog/how-to-create-an-alert-message-box-using-html-css)
 <!-- BLOG-POST-LIST:END -->
 
 ---
