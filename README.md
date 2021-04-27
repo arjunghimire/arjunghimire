@@ -1,7 +1,7 @@
 ### Hi there, I'm Arjun 👋
 
 ## I'm a Fullstack Developer!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen music and travel in different palces
 
 ### Connect with me:
@@ -34,15 +34,7 @@
 <br />
 <br />
 
----
 
-### Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Create an Alert Message Box using HTML CSS](https://code4ever.com/gatsby-starter-developer-blog/blog/how-to-create-an-alert-message-box-using-html-css)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 [![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjunghimire&count_private=true&theme=dracula&show_icons=true)](https://github.com/arjunghimire/github-readme-stats)
 
