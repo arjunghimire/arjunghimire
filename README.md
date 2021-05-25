@@ -36,11 +36,3 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 [![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjunghimire&count_private=true&theme=dracula&show_icons=true)](https://github.com/arjunghimire/github-readme-stats)
-
-[website]: https://code4ever.com
-[twitter]: https://twitter.com/mearjunghimire
-[linkedin]: https://linkedin.com/in/arjun-ghimire-9930929a
-[webdevplaylist]: https://code4ever.com
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
