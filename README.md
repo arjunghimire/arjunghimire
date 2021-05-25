@@ -4,7 +4,6 @@
 
 ## I'm a Fullstack Developer!
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listen music and travel in different places
 
 ## Things I code with
 <p>
