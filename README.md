@@ -4,7 +4,7 @@
 #### [Visit my another site for fake REST API Json data](https://fakerequest.com/)
 
 ## I'm a Fullstack Developer!
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 2021 Goals: Contribute more to Open Source projects
 
 ## Things I code with
 <p>
