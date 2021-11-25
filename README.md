@@ -40,4 +40,4 @@
 
 ## VisitorCount
 
-![VisitorCount](https://profile-counter.glitch.me/adithyaakrishna/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/arjunghimire/count.svg)
