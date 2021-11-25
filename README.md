@@ -37,3 +37,7 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 [![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjunghimire&count_private=true&theme=dracula&show_icons=true)](https://github.com/arjunghimire/github-readme-stats)
+
+## VisitorCount
+
+![VisitorCount](https://profile-counter.glitch.me/adithyaakrishna/count.svg)
