@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-#### [Visit my blog for cool design stubs](https://code4ever.com/)
-#### [Visit my another site for fake REST API Json data](https://fakerequest.com/)
+#### [Visit my blog for cool design stubs](https://css.code4ever.com/)
+#### [Visit my another site for fake REST API Json data](https://reqres.code4ever.com/)
 
 ## I'm a Fullstack Developer!
 - 2021 Goals: Contribute more to Open Source projects
