@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ## I'm a Fullstack Developer!
-- 2023 Goals: Contribute more to Open Source Projects
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
