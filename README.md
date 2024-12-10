@@ -12,9 +12,6 @@
 [![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjunghimire&count_private=true&theme=dracula&show_icons=true)](https://github.com/arjunghimire/github-readme-stats)
 
 <p align="center">
-  <img src="https://readme-stats-lake-seven.vercel.app/api/?username=arjunghimire&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="arjunghimire's Stats" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=arjunghimire&theme=algolia&hide_border=true" alt="arjunghimire's Top Languages"  />
 </p>
 <p align="center">
