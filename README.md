@@ -19,14 +19,6 @@ I’m a passionate developer with experience in building impactful applications,
 </div>  
 
 
-## 🎯 **Top Languages**  
-<div align="center">
-  <img src="https://readme-stats-lake-seven.vercel.app/api/top-langs/?username=arjunghimire&layout=compact&theme=tokyonight&hide_border=true" alt="Compact Languages" width="48%">
-  <img src="https://readme-stats-lake-seven.vercel.app/api/top-langs/?username=arjunghimire&layout=donut&theme=tokyonight&hide_border=true" alt="Donut Chart" width="48%">
-</div>  
-
-
-
 ## 🌍 **Visitor Counter**  
 <p align="center">
   <img src="https://profile-counter.glitch.me/arjunghimire/count.svg" alt="Visitor Counter">
