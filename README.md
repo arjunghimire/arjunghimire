@@ -15,7 +15,6 @@ I’m a passionate developer with experience in building impactful applications,
 ## 🏆 **GitHub Stats at a Glance**  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arjunghimire&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=arjunghimire&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>  
 
 
