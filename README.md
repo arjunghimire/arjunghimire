@@ -17,14 +17,6 @@ I’m a passionate developer with experience in building impactful applications,
   <img src="https://github-readme-stats.vercel.app/api?username=arjunghimire&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
 </div>  
 
-
-## 🌍 **Visitor Counter**  
-<p align="center">
-  <img src="https://profile-counter.glitch.me/arjunghimire/count.svg" alt="Visitor Counter">
-</p>  
-
-
-
 ## 🤝 **Let’s Connect!**  
 <div align="center">
   <a href="https://arjunghimire.github.io/" target="_blank">
